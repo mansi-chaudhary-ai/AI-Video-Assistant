@@ -1,5 +1,4 @@
 
-```markdown
 # AI Meeting Assistant 🎙️🤖
 
 An intelligent meeting assistant designed to streamline your workflow by transcribing, translating, and analyzing meeting audio. Built with a robust LLM architecture, this tool not only summarizes meetings and extracts actionable insights but also allows you to interactively chat with your meeting transcripts.
