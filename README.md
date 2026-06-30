@@ -1,41 +1,3 @@
-Zaroor, yahan dono files ka complete code ek jagah par hai. Aap inhe VS Code mein alag-alag files banakar seedha paste kar sakte hain.
-
-### 1. `requirements.txt`
-
-VS Code mein `requirements.txt` naam ki file banayein aur yeh copy-paste karein:
-
-```text
-# UI Framework
-streamlit
-
-# Audio & Video processing
-yt-dlp
-openai-whisper
-torch
-ffmpeg-python
-
-# LLM Orchestration & APIs
-langchain
-langchain-core
-langchain-community
-langchain-mistralai
-mistralai
-
-# RAG & Embeddings
-chromadb
-langchain-huggingface
-sentence-transformers
-
-# PDF Generation
-fpdf2
-
-```
-
----
-
-### 2. `README.md`
-
-VS Code mein `README.md` naam ki file banayein aur yeh copy-paste karein:
 
 ```markdown
 # AI Meeting Assistant 🎙️🤖
@@ -121,6 +83,3 @@ streamlit run app.py
 * Adding multi-speaker diarization to identify who said what.
 * Support for additional languages and local LLM integration for fully offline analysis.
 
-```
-
-```
