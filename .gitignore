@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector database
+vector_db/
+
+# Downloaded/generated files
+downloads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings (optional)
+.vscode/
