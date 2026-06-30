@@ -82,3 +82,7 @@ streamlit run app.py
 * Adding multi-speaker diarization to identify who said what.
 * Support for additional languages and local LLM integration for fully offline analysis.
 
+## Demo Video
+
+* Watch the project demo here:
+* https://drive.google.com/file/d/16Ga-kxF-gH9zV6g5RpczF8q9ypJsuebI/view?usp=sharing
